@@ -12,7 +12,7 @@ It is a feature which offers you to share a stage with another user virtually. I
 
 # How to execute the code :
 
-### Please mail me at devashi@gmail.com for main.py file and pretrained model.
+### Please mail me at devashi882@gmail.com for main.py file and pretrained model.
 
 1. You will first have to download the repository and then extract the contents into a folder.
 2. Make sure you have the correct version of Python installed on your machine. This code runs on Python 3.6 above.
